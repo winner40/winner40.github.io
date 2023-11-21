@@ -26,7 +26,7 @@ I am primarily interested in :
 - Memory management in operating systems
 - Memory and Devices virtualization
 - hypervisor related topics
-- 
+  
 Extra Info
 ======
 I like music, reading, video games and some more things. 
