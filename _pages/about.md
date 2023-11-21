@@ -7,25 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am completing a two-year Master's Degree in Artificial Intelligence and Data Science at [National School of Computer Science and Applied Mathematics of Grenoble, France](https://ensimag.grenoble-inp.fr/), expecting to graduate in August 2022. As part of my Master's thesis, I am a Research Intern at [Mila-Quebec AI institute](https://mila.quebec/en/) under [Prof. Yoshua Bengio](https://yoshuabengio.org/). Herein, I am mainly investing my time working on learning how to generate latent hypergraphs using Generative Flow Networks, for short [GFlowNets](https://yoshuabengio.org/2022/03/05/generative-flow-networks/). Having spent only a small-time (roughly three research internships) in the research environment, GFlowNet is one of the most exciting subjects I have ever encountered (probably because I am still a beginner in AI-based research). I believe GFlowNets, still in its infancy, will be the next breakthrough in AI akin to what Transformers did five years ago.
+I am pursuiing a PhD thesis in Virtualization and virtual machines security at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), i started in April 2023. This PhD is under the direction of Pr [Alain TCHANA](https://perso.ens-lyon.fr/alain.tchana/) and Dr [Renaud Lachaize](https://lig-membres.imag.fr/rlachaiz/). It is a CIFRE thesis which means that it is done in partnership with a company in France. The comppany where I am working at is Orange Innovation of the [Orange Group](https://www.linkedin.com/company/orange/). My company supervisor is [kahina Lazri](https://www.linkedin.com/in/kahina-lazri/?trk=public_profile_browsemap&originalSubdomain=fr). My work is mainly about building a framework for virtual machine observation; to make virtual machines introspection (VMI) to fill the semantic gap and perform a seamless observation of a target machine.
 
-I finished the first year of my Master's Degree working as a Research Intern at [IBM Research Europe, Zurich](https://www.zurich.ibm.com/) under [Dr. Matteo Manica](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-TTE) and [Teodoro Laino](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-TEO). I worked on exploiting the expressivity of context-based language representation models to discover active sites on proteins in an unsupervised manner [ACS Spring 2022, paper](https://research.ibm.com/publications/identification-of-enzymatic-active-sites-with-unsupervised-language-modelling--1). More precisely, we trained Transformer-based models with the self-supervised learning task mask language modelling on the string representation of bio-catalyzed enzymatic reactions, and probe the attention matrix of an embedded enzymatic reaction to extract active sites of the enzyme involved in the reaction. The results were validated using an overlap-based metric and an energy-based comparison provided by docking simulations.
+I already have some experience in virtualization. 
+First, When I was in M1, at the [National Advanced School of Engineering of Yaoundé](https://polytechnique.cm/) I did an internship, working on the synchromization of a distributed shared memory (DSM), in [GiantVM](https://dl.acm.org/doi/10.1145/3381052.3381324), a virtual machine monitor (VMM) developed at the Shanghai Jiao Tong University. This internship was under the supervision of Pr [Alain TCHANA](). I have implemented a write-protect algorithm in it. and performed some other optimizations. The main goal of that topic was to perform  a study of the implementation of a distrubuted hypervisor, on the memory management part. This has led to a publication in a workshop named [SPMA(Systems for Post-Moore Architectures)](https://sites.google.com/view/spma22eurosys/home) colocated with Eurosys 2022. The paper is available [here](https://drive.google.com/file/d/1tVcswD44EEXhFoa0gMwYY87t5PHzHZxY/view?usp=sharing).
 
-I hold a Bachelor's Degree equivalent in Computer Engineering from the [The National Advanced School of Engineering of Yaounde, Cameroon](https://www.polytechnique.cm/)
+In My second year of master thesis at Yaoundé, i wørked on the performance optimizaition of a distributed hypervisor developped in the laboratory where I worked at: [Laboratoire d'Informatique du Parallélisme](https://www.ens-lyon.fr/LIP/). That Hypervisor is called Scalevisor. it was under the supervision of alain TCHANA. 
 
-Thesis
-======
-* ***Second-Year Master's Thesis***: Stay connected 
-* ***First-Year Master's Thesis***: [Language Modeling on Enzyme-Catalyzed Reactions Unsupervisedly Recover Active Sites](https://lkwate.github.io/files/Thesis-1.pdf)
+I Hold a Master's Degree in Computer Science from [École Normale Supérieure de Lyon](https://www.ens-lyon.fr/en) that I did in 2021-2022. The internship that I did there was about the Virtualization of a novel PIM (Processing-In-Memory) hardware, developped by [UPMEM](), a Grenoble startup. It is the first commercially usable PIM hardware available. I worked on the virtualization of such a hardware to make it usable in the cloud for everyone. 
+This project is still undergoing. 
+
+I have a Bachelor's Degree equivalent in Computer Engineering from the [The National Advanced School of Engineering of Yaounde, Cameroon](https://www.polytechnique.cm/)
+
 
 Research Interests
 ======
-While I remain widely open to addressing every problem using deep learning-based approaches and reasoning, I feel excited about pursuing research falling into the following remits: 
-* Boost machine-reading models using context-based (Attention-based models) and context-free (Commonsense knowledge) language presentation
-* Tailor language generation models to produce text satisfying a given metric ahead using Reinforcement Learning.
-
-Besides the said topics, I am interested in Computer Vision, Reinforcement Learning, braodly in Deep Learning.
-
-Extra Research
+I am primarily interested in : 
+- Memory management in operating systems
+- Memory and Devices virtualization
+- hypervisor related topics
+- 
+Extra Info
 ======
-I feel particularly interested in research, including life as a whole, existential questions, consciousness, the roots of living things, and metaphysics.
+I like music, reading, video games and some more things. 
+I am a Christian and love giving joy to people aroung. ^_^
