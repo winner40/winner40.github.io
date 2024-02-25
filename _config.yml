@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dufy TEGUIA"
+title                    : "Vaneck DAGAR"
 title_separator          : "-"
-name                     : &name "Dufy TEGUIA"
-description              : &description "PhD student at Université Grenoble Alpes | Orange Innovation"
-url                      : "https://brisco007.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vaneck DAGARA"
+description              : &description "Actuellement en Master à l'université de Dschang au Cameroun, je suis passionné par l'outil informatique et les technologies innovantes."
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brisco007/brisco007.github.io"
+repository               : "brisco007/winner40.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dufy TEGUIA"
+  name             : "Vaneck DAGAR"
   avatar           : "profile.jpg"
-  bio              : "Currently PhD student at Université Grenoble Alpes in CIFRE with Orange Innovation. I like reading, abstract thinking, gaming and music"
-  location         : "Châtillon, Ile-de-France, France"
-  employer         : "Orange Innovation"
+  bio              : "Actuellement en Master à l'université de Dschang au Cameroun, je suis passionné par l'outil informatique et les technologies innovantes."
+  location         : "Dschang Cameroon"
+  employer         : #"Orange Innovation"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "dteguia396@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Dufy-Teguia"
+  email            : "vanecktiyo0@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Dufy-Teguia"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/brisco007"
+  github           : "/winner40"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dufy-teguia-418042145/"
+  linkedin         : #"https://www.linkedin.com/in/dufy-teguia-418042145/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
