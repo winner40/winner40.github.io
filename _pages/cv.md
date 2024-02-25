@@ -7,113 +7,49 @@ redirect_from:
   - /resume
 ---
 
-[Download My Resume](https://brisco007.github.io/files/Dufy_Teguia_CV.pdf)
+[Download My Resume](https://winner04.github.io/files/Vaneck_Dagar_CV.pdf)
 
 Education
 ======
-- **Master in Computer Science Fundamentals (M2), Ecole Normale Supérieure de Lyon, France**  
-  *2021 -- 2022*  
-  *Relevant Courses*: Compilation and Program Analysis, Distributed Systems, Parallel and Distributed Algorithms and Programs.
-
-- **Master of Engineering in Computer Science, National Advanced School of Engineering of Yaounde, Cameroon**  
-  *2016 -- 2021*  
-  *Relevant Courses*: Probability and Statistics, Data Structure and Algorithms, Theory of Compilation, Linear Algebra, C Programming, Cloud Computing and Virtualization.
-
-Experience
+- **2023 - current: Master's Degree in Computer Science, University of Dschang, Cameroon** 
+- **2020 - 2023: Bachelor's Degree in Fundamental Computer Science, University of Dschang, Cameroon**  
+- **2019 - 2020: First Year of Bachelor's Degree in Mathematics, University of Yaoundé I**
+-  **2018 - 2019: Secondary Education Baccalaureate, Ekangte Bilingual High School in Nkongsamba**
+   **Series C**: Mathematics and Physical Sciences
+      
+EDUCATIONAL BACKGROUND
 ======
-- **PhD. Thesis in Computer Science, Université Grenoble Alpes (UGA) | Orange Innovation, France**  
-  *2023 -- current*  
-  *Description*: Advanced Techniques for Specialization of Containerized Network Functions
+- **2023 - Current: Operating Systems Training**    
+  I am a member of the MLNS2 associated team between LIG and Cameroon, under the supervision of Professor Alain TCHANA (Grenoble INP). I 
+  am closely mentored by Papa Assane FALL and Dufy TEGUIA, doctoral students at the University of Grenoble Alpes, under the supervision 
+  of Professor Alain TCHANA and Renaud LACHAIZE. In this mentoring program, I have received training in System on the following 
+  concepts: process management, system calls, interrupts, memory management, and synchronization.
 
-- **Research Engineer**  
-  *2022*  
-  *N7 Institut de Recherche Informatique de Toulouse (INP Toulouse)*  
-  Paravirtualization of a Processing-In-Memory (PIM) hardware by UPMEM. Used Firecracker (from Amazon) and Virtio.  
-  Duration: 3 months.
+- **2022 - 2023: Training in Computer Systems and Technologies**  
+  During this year, I attended Professor Alain TCHANA's Operating Systems course in October 2023 at the École Nationale Supérieure          Polytechnique in Yaoundé, the IoT course by Professor Didier DONSEZ (Polytech Grenoble) in December 2023, as well as the Cloud and Big    Data courses by Professors Daniel HAGIMONT (Toulouse INP) and Jean Marc MENAUD (IMT Atlantique)
 
-- **Research Intern** 
-  *2022* 
-  *Laboratoire de l'Informatique du Parallélisme (LIP) of the ENS de Lyon*  
-  Paravirtualization of a Processing-In-Memory (PIM) hardware by UPMEM. Used Firecracker (from Amazon) and Virtio.  
-  Duration: 6 months.
-
-- **Research Intern**  
-  *2021*  
-  *Laboratoire de l'Informatique du Parallélisme (LIP) of the ENS de Lyon*  
-  Improved the performance of a distributed hypervisor based on QEMU/KVM for the Scalevisor project, aiming to build distributed virtual machines.  
-  Duration: 7 months.
-
-- **Research Intern with Alain TCHANA**  
-  *2020*  
-  *École Normale Supérieure de Lyon*  
-  Implemented the write-update protocol to optimize updates propagation in the distributed hypervisor GiantVM.  
-  Duration: 2 months.
-
-- **Intern at Megasoft LLC, Yaounde, Cameroon**  
-  *2019*  
-  Implemented a mechanism for uploading/downloading large files securely to/from the company's server.  
-  Duration: 2 months.
-  
-Grants
+EXPERTISE
 ======
-- **2021**  
-  Awarded the Ampere Scholarship from the École Normale Supérieure de Lyon for the Computer Science Fundamentals Master program.
-
-Certifications
-======
-- **2020**  
-  Google Cloud Infrastructure Fundamentals: Core Infrastructure. Awarded by Google on Coursera.
-
-Miscellaneous Experience
-======
-## Awards and Achievements
-- **2022**  
-  Winner of the Unikraft Lyon Hackathon, focusing on a unikernel named Unikraft at ENS de Lyon.
-
-- **2021**  
-  CSV Seminar: Cloud, Storage, and Virtualisation, ENSTA Bretagne, Brest, France. Presented ongoing work on the performance of a distributed hypervisor to other French research teams in a 2-day workshop.
-
-- **2019**  
-  Huawei Seeds for the Future, Cameroon. Participated in a 2-week program at Huawei’s Headquarters to learn about Chinese culture and Cloud computing.
-
-## Volunteer Experience
-
-- **2020**  
-  Academic Orientation Conference: Participated in the organization of an event aimed at helping students choose their field of study at my school.
-
-Skills
-======
-## Languages
+##Language
 - French: Native
-- English: C1 (IELTS Score: 7.5/9)
+- English: B2
 
-## Software Engineering
-- Java
-- Rust
-- Design Patterns
-- C
-- C++
-- Python
-- Unit Tests
-- Git
+##Language
+Java, Java EE, C, C++, Laravel, Angular,
+PostgreSQL, Mongo DB, UML.
 
-## Systems and Cloud Computing
-- Linux
-- Linux Kernel
-- Virtualization
-- Cloud Computing
-- MicroVMs
-- Firecracker
-- QEMU
-- KVM
-- Virtio
+##Systems
+Linux, Linux Kernel, Virtualization.
 
-## Miscellaneous
-- Team Collaboration
-- Initiative Spirit
-- Hypothesis Formulation and Verification
-- Report Writing 
-
-Extra Curriculum
+EXPERIENCE
 ======
-* Mentor of L3 student at Université de Dschang (Cameroun)
+- **2022 - 2023: Development of a lodgingreservation website**  
+I participated in the development of the website (harmony-housing.com) as part of a final year project for the completion of my Bachelor's degree.
+- **2022 - 2023: Intern at KIMBOCARE, Dschang, Cameroon**
+I participated in the development of the website (harmony-housing.com) as part of a final year project for the completion of my Bachelor's degree.
+  
+VOLUNTEER EXPERIENCE
+======
+- **2023 - Current: Remedial Coursework**  
+I am a member of a program aimed at enhancing the academic performance of first and second-year students within the University through support classes.
+
