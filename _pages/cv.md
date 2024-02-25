@@ -14,7 +14,7 @@ Education
 - **2023 - current: Master's Degree in Computer Science, University of Dschang, Cameroon** 
 - **2020 - 2023: Bachelor's Degree in Fundamental Computer Science, University of Dschang, Cameroon**  
 - **2019 - 2020: First Year of Bachelor's Degree in Mathematics, University of Yaoundé I**
-- **2018 - 2019: Secondary Education Baccalaureate, Ekangte Bilingual High School in Nkongsamba** \n
+- **2018 - 2019: Secondary Education Baccalaureate, Ekangte Bilingual High School in Nkongsamba**  
   *Series C: Mathematics and Physical Sciences
       
 EDUCATIONAL BACKGROUND
