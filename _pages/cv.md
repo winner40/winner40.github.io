@@ -35,11 +35,20 @@ EXPERTISE
 - English: B2
 
 ##Language
-Java, Java EE, C, C++, Laravel, Angular,
-PostgreSQL, Mongo DB, UML.
+- Java,
+- Java EE
+- C
+- C++
+- Laravel
+- Angular
+- PostgreSQL
+- Mongo DB
+- UML
 
 ##Systems
-Linux, Linux Kernel, Virtualization.
+- Linux
+- Linux Kernel
+- Virtualization.
 
 EXPERIENCE
 ======
