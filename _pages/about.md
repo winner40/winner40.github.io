@@ -7,27 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuiing a PhD thesis in Virtualization and virtual machines security at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), i started in April 2023. This PhD is under the direction of Pr [Alain TCHANA](https://perso.ens-lyon.fr/alain.tchana/) and Dr [Renaud Lachaize](https://lig-membres.imag.fr/rlachaiz/). It is a CIFRE thesis which means that it is done in partnership with a company in France. The comppany where I am working at is Orange Innovation of the [Orange Group](https://www.linkedin.com/company/orange/). My company supervisor is [kahina Lazri](https://www.linkedin.com/in/kahina-lazri/?trk=public_profile_browsemap&originalSubdomain=fr). My work is mainly about building a framework for virtual machine observation; to make virtual machines introspection (VMI) to fill the semantic gap and perform a seamless observation of a target machine.
 
-I already have some experience in virtualization. 
-First, When I was in M1, at the [National Advanced School of Engineering of Yaoundé](https://polytechnique.cm/) I did an internship, working on the synchromization of a distributed shared memory (DSM), in [GiantVM](https://dl.acm.org/doi/10.1145/3381052.3381324), a virtual machine monitor (VMM) developed at the Shanghai Jiao Tong University. This internship was under the supervision of Pr [Alain TCHANA](). I have implemented a write-protect algorithm in it. and performed some other optimizations. The main goal of that topic was to perform  a study of the implementation of a distrubuted hypervisor, on the memory management part. This has led to a publication in a workshop named [SPMA(Systems for Post-Moore Architectures)](https://sites.google.com/view/spma22eurosys/home) colocated with Eurosys 2022. The paper is available [here](https://drive.google.com/file/d/1tVcswD44EEXhFoa0gMwYY87t5PHzHZxY/view?usp=sharing).
+I am currently a Master's student at [Université of Dschang Cameroon](https://www.univ-dschang.org/). Alongside my studies, I am a member of the associated team MLNS2 between the Grenoble Informatics [Laboratory LIG](https://www.liglab.fr/) and Cameroon, under the direction of Pr [Alain TCHANA](https://perso.ens-lyon.fr/alain.tchana/) from Grenoble INP. I also receive close supervision from [Papa Assane FALL]() and [Dufy TEGUIA](https://brisco007.github.io/), both doctoral students at the University of Grenoble Alpes, under the direction of Professors Alain TCHANA and Dr [Renaud Lachaize](https://lig-membres.imag.fr/rlachaiz/). As part of this mentoring program, I have had the opportunity to undergo in-depth training in Systems, focusing on process management, system calls, interrupts, kernel modules, memory management, and synchronization.
 
-In My second year of master thesis at Yaoundé, i wørked on the performance optimizaition of a distributed hypervisor developped in the laboratory where I worked at: [Laboratoire d'Informatique du Parallélisme](https://www.ens-lyon.fr/LIP/). That Hypervisor is called Scalevisor. it was under the supervision of Alain TCHANA. 
+I have also put these skills into practice through several practical work sessions (TP) of 2A of SEPC (Operating Systems and Concurrent Programming). For example, during a TP on shared memory, we studied and implemented mechanisms allowing multiple processes to share the same memory region. This TP helped us understand the challenges and solutions related to managing shared memory in an operating system.
 
-I Hold a Master's Degree in Computer Science from [École Normale Supérieure de Lyon](https://www.ens-lyon.fr/en) that I did in 2021-2022. The internship that I did there was about the Virtualization of a novel PIM (Processing-In-Memory) hardware, developped by [UPMEM](), a Grenoble startup. It is the first commercially usable PIM hardware available. I worked on the virtualization of such a hardware to make it usable in the cloud for everyone. 
-This project is still undergoing. 
+Another TP focused on implementing a mini-shell, a user interface for executing system commands. We learned to analyze user-entered commands, interpret them, and execute them using the appropriate system calls. This project gave us an in-depth understanding of the internal workings of a shell and the fundamental concepts of operating systems.
 
-I have a Bachelor's Degree equivalent in Computer Engineering from the [The National Advanced School of Engineering of Yaounde, Cameroon](https://www.polytechnique.cm/)
+Furthermore, I developed a Gregory's treasure hunt, a project that involved creating a set of challenges and puzzles to solve using advanced system programming concepts. This project allowed us to explore various aspects of operating systems, such as process management, synchronization, and inter-process communication. 
+I also gained a foundation in kernel module development, enabling me to create a module in which I implemented system calls. These were then used with a user interface program. These practical sessions provided valuable opportunities to apply the theoretical knowledge gained in class and deepen my understanding of operating systems and system programming."
 
-
-Research Interests
-======
-I am primarily interested in : 
-- Memory management in operating systems
-- Memory and Devices virtualization
-- hypervisor related topics
+I have a Bachelor's degree in Fundamental Computer Science obtained in 2023 from the [University of Dschang](https://lig-membres.imag.fr/rlachaiz/).
   
 Extra Info
 ======
-I like music, reading, video games and some more things. 
-I am a christian and love giving joy to people aroung. ^_^
+I like football, music, tourism, and many other things.
