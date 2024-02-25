@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download My Resume](https://winner04.github.io/files/Vaneck_Dagar_CV.pdf)
+[Download My Resume](https://winner40.github.io/files/Vaneck_Dagar_CV.pdf)
 
 Education
 ======
