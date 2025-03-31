@@ -42,7 +42,6 @@ EXPERTISE
 - Laravel
 - Angular
 - PostgreSQL
-- Mongo DB
 - UML
 
 ## Systems
