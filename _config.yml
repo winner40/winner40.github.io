@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Vaneck DAGAR"
 title_separator          : "-"
 name                     : &name "Vaneck DAGAR"
-description              : &description "Currently pursuing a Master's degree at the University of Dschang in Cameroon, I am passionate about computer science and innovative technologies."
+description              : &description "First-year Master’s student in Computer Science, MOSIG program (Master of Science in Informatics at Grenoble),
+                            jointly offered by the University of Grenoble and ENSIMAG, with a strong interest in system programming (Linux),
+                            artificial intelligence, distributed systems, and optimization."
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brisco007/winner40.github.io"
@@ -82,8 +84,10 @@ analytics:
 author:
   name             : "Vaneck DAGAR"
   avatar           : "profilev.jpg"
-  bio              : "Currently pursuing a Master's degree at the University of Dschang in Cameroon, I am passionate about computer science and innovative technologies."
-  location         : "Dschang Cameroon"
+  bio              : "First-year Master’s student in Computer Science, MOSIG program (Master of Science in Informatics at Grenoble),
+                    jointly offered by the University of Grenoble and ENSIMAG, with a strong interest in system programming (Linux),
+                    artificial intelligence, distributed systems, and optimization."
+  location         : "Grenoble, France"
   employer         : #"Orange Innovation"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
